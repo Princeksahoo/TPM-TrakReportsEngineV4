@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPM-TrakReportsEngine", "TPM-TrakReportsEngine\TPM-TrakReportsEngine.csproj", "{89AE67F7-2778-47DB-8350-7225AA9ED438}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TPM-TrakReportsEngineSetup", "TPM-TrakReportsEngineSetup\TPM-TrakReportsEngineSetup.vdproj", "{34C68C2A-BD2E-4147-8D32-791F806BFD77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReleaseNotes", "ReleaseNotes", "{88F0AB49-B79E-46CC-A230-58A76CFEEADC}"
+	ProjectSection(SolutionItems) = preProject
+		ReleaseNotes.txt = ReleaseNotes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AE67F7-2778-47DB-8350-7225AA9ED438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AE67F7-2778-47DB-8350-7225AA9ED438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AE67F7-2778-47DB-8350-7225AA9ED438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AE67F7-2778-47DB-8350-7225AA9ED438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C68C2A-BD2E-4147-8D32-791F806BFD77}.Debug|Any CPU.ActiveCfg = Debug
+		{34C68C2A-BD2E-4147-8D32-791F806BFD77}.Release|Any CPU.ActiveCfg = Release
+		{34C68C2A-BD2E-4147-8D32-791F806BFD77}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = TPM-TrakReportsEngine\\TPM-TrakReportsEngine.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = TPM-TrakReportsEngine\\
+		SccProjectUniqueName2 = TPM-TrakReportsEngineSetup\\TPM-TrakReportsEngineSetup.vdproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = TPM-TrakReportsEngineSetup\\
+	EndGlobalSection
+EndGlobal

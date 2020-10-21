@@ -1,0 +1,12 @@
+2019-09-07 : Release 5.0.0
+--------------------------
+1. Added "Efficiency And Graph" report for BaluAuto. Excluded "No Shift" (3rd shift) from report and calculation.
+2. Added 2 reports for Mangal - MangalHourlyChartReport, MangalDowntimeReport
+
+2019-09-25  Release 5.1.0
+-------------------------
+1. SONA - MIS report added in agg side data
+
+2019-10-30  Release 5.2.0
+-------------------------
+1. SONA - Energy Meter report added.
